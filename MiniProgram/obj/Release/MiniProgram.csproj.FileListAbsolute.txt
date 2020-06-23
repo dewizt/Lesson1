@@ -1,0 +1,9 @@
+D:\Программы с Рабочего стола\Программирование ЗАДАЧИ\MiniProgram\MiniProgram\bin\Release\MiniProgram.exe.config
+D:\Программы с Рабочего стола\Программирование ЗАДАЧИ\MiniProgram\MiniProgram\bin\Release\MiniProgram.exe
+D:\Программы с Рабочего стола\Программирование ЗАДАЧИ\MiniProgram\MiniProgram\bin\Release\MiniProgram.pdb
+D:\Программы с Рабочего стола\Программирование ЗАДАЧИ\MiniProgram\MiniProgram\obj\Release\MiniProgram.Form1.resources
+D:\Программы с Рабочего стола\Программирование ЗАДАЧИ\MiniProgram\MiniProgram\obj\Release\MiniProgram.Properties.Resources.resources
+D:\Программы с Рабочего стола\Программирование ЗАДАЧИ\MiniProgram\MiniProgram\obj\Release\MiniProgram.csproj.GenerateResource.cache
+D:\Программы с Рабочего стола\Программирование ЗАДАЧИ\MiniProgram\MiniProgram\obj\Release\MiniProgram.csproj.CoreCompileInputs.cache
+D:\Программы с Рабочего стола\Программирование ЗАДАЧИ\MiniProgram\MiniProgram\obj\Release\MiniProgram.exe
+D:\Программы с Рабочего стола\Программирование ЗАДАЧИ\MiniProgram\MiniProgram\obj\Release\MiniProgram.pdb

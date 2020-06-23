@@ -1,0 +1,10 @@
+D:\Программы с Рабочего стола\Программирование ЗАДАЧИ\MiniProgram\MiniProgram\bin\Debug\MiniProgram.exe.config
+D:\Программы с Рабочего стола\Программирование ЗАДАЧИ\MiniProgram\MiniProgram\bin\Debug\MiniProgram.exe
+D:\Программы с Рабочего стола\Программирование ЗАДАЧИ\MiniProgram\MiniProgram\bin\Debug\MiniProgram.pdb
+D:\Программы с Рабочего стола\Программирование ЗАДАЧИ\MiniProgram\MiniProgram\obj\Debug\MiniProgram.Form1.resources
+D:\Программы с Рабочего стола\Программирование ЗАДАЧИ\MiniProgram\MiniProgram\obj\Debug\MiniProgram.Properties.Resources.resources
+D:\Программы с Рабочего стола\Программирование ЗАДАЧИ\MiniProgram\MiniProgram\obj\Debug\MiniProgram.csproj.GenerateResource.cache
+D:\Программы с Рабочего стола\Программирование ЗАДАЧИ\MiniProgram\MiniProgram\obj\Debug\MiniProgram.csproj.CoreCompileInputs.cache
+D:\Программы с Рабочего стола\Программирование ЗАДАЧИ\MiniProgram\MiniProgram\obj\Debug\MiniProgram.exe
+D:\Программы с Рабочего стола\Программирование ЗАДАЧИ\MiniProgram\MiniProgram\obj\Debug\MiniProgram.pdb
+D:\Программы с Рабочего стола\Программирование ЗАДАЧИ\MiniProgram\MiniProgram\obj\Debug\MiniProgram.csprojAssemblyReference.cache
